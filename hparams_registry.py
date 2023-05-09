@@ -1,6 +1,6 @@
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 import numpy as np
-from thirdparty.domainbed.lib import misc
+from miscellaneous.domainbed.lib import misc
 
 
 def _hparams(algorithm, dataset, random_seed):
